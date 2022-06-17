@@ -19,3 +19,23 @@ En este repositorio tenemos una demostración de la creación del recurso de Azu
 ---
 
 ## Pasos a seguir
+
+- 
+
+![P1](https://github.com/DagonNR/Key-Vault/blob/main/images/P1.PNG)
+
+- 
+
+![P2](https://github.com/DagonNR/Key-Vault/blob/main/images/P2.PNG)
+
+- 
+
+![P3](https://github.com/DagonNR/Key-Vault/blob/main/images/P3.PNG)
+
+- 
+
+![P4](https://github.com/DagonNR/Key-Vault/blob/main/images/P4.PNG)
+
+- 
+
+![P5](https://github.com/DagonNR/Key-Vault/blob/main/images/P5.PNG)
